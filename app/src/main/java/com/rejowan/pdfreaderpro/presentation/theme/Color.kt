@@ -2,138 +2,138 @@ package com.rejowan.pdfreaderpro.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
-// ============================================================================
-// DARK THEME - Purple/Violet - Optimized for AMOLED
-// ============================================================================
+// =========================================================================
+// PREMIUM PINK & CHARCOAL GREY THEME - Optimized for Royal Rajawat
+// =========================================================================
 
-val primaryDark = Color(0xFF9181F4)
-val onPrimaryDark = Color(0xFFFFFFFF)
-val primaryContainerDark = Color(0xFF7B6BE0)
-val onPrimaryContainerDark = Color(0xFFFFFFFF)
+val primaryDark = Color(0xFFF48FB1) // खूबसूरत डस्टी रोज पिंक
+val onPrimaryDark = Color(0xFF3F001D)
+val primaryContainerDark = Color(0xFF880E4F)
+val onPrimaryContainerDark = Color(0xFFFFD9E2)
 
-val secondaryDark = Color(0xFFB8A5E3)
-val onSecondaryDark = Color(0xFF1E1530)
-val secondaryContainerDark = Color(0xFF8B7BC7)
-val onSecondaryContainerDark = Color(0xFFFFFFFF)
+val secondaryDark = Color(0xFFECE0E2)
+val onSecondaryDark = Color(0xFF332F31)
+val secondaryContainerDark = Color(0xFF4D4446)
+val onSecondaryContainerDark = Color(0xFFFCE4EC)
 
-val tertiaryDark = Color(0xFF4DB6AC)
-val onTertiaryDark = Color(0xFF003731)
-val tertiaryContainerDark = Color(0xFF00897B)
-val onTertiaryContainerDark = Color(0xFFFFFFFF)
+val tertiaryDark = Color(0xFFEFB8C8)
+val onTertiaryDark = Color(0xFF492532)
+val tertiaryContainerDark = Color(0xFF633B48)
+val onTertiaryContainerDark = Color(0xFFFFD9E2)
 
-val inversePrimaryDark = Color(0xFF9181F4)
+val inversePrimaryDark = Color(0xFFE91E63)
 
-// ============================================================================
+// =========================================================================
 // SHARED DARK SURFACE COLORS
-// ============================================================================
+// =========================================================================
 
 object DarkSurfaces {
-    val background = Color(0xFF0A0A0F)
-    val onBackground = Color(0xFFE8E5F0)
-    val surface = Color(0xFF0A0A0F)
-    val onSurface = Color(0xFFE8E5F0)
-    val surfaceVariant = Color(0xFF3D3A47)
-    val onSurfaceVariant = Color(0xFFC9C5D4)
-    val outline = Color(0xFF8C899A)
-    val outlineVariant = Color(0xFF49464F)
+    val background = Color(0xFF1C1B1F)
+    val onBackground = Color(0xFFE6E1E5)
+    val surface = Color(0xFF1C1B1F)
+    val onSurface = Color(0xFFE6E1E5)
+    val surfaceVariant = Color(0xFF49454F)
+    val onSurfaceVariant = Color(0xFFCAC4D0)
+    val outline = Color(0xFF938F99)
+    val outlineVariant = Color(0xFF49454F)
     val scrim = Color(0xFF000000)
-    val inverseSurface = Color(0xFFE8E5F0)
-    val inverseOnSurface = Color(0xFF2E2C35)
-    val surfaceDim = Color(0xFF0A0A0F)
-    val surfaceBright = Color(0xFF35333D)
-    val surfaceContainerLowest = Color(0xFF050508)
-    val surfaceContainerLow = Color(0xFF141318)
-    val surfaceContainer = Color(0xFF1A191F)
-    val surfaceContainerHigh = Color(0xFF242329)
-    val surfaceContainerHighest = Color(0xFF2F2D35)
-    val error = Color(0xFFD32F2F)
-    val onError = Color(0xFFFFFFFF)
-    val errorContainer = Color(0xFFEF5350)
-    val onErrorContainer = Color(0xFFFFFFFF)
+    val inverseSurface = Color(0xFFE6E1E5)
+    val inverseOnSurface = Color(0xFF313033)
+    val surfaceDim = Color(0xFF1C1B1F)
+    val surfaceBright = Color(0xFF3C3A3F)
+    val surfaceContainerLowest = Color(0xFF0F0D11)
+    val surfaceContainerLow = Color(0xFF1D1B20)
+    val surfaceContainer = Color(0xFF211F24)
+    val surfaceContainerHigh = Color(0xFF2B2930)
+    val surfaceContainerHighest = Color(0xFF36343B)
+    val error = Color(0xFFF2B8B5)
+    val onError = Color(0xFF601410)
+    val errorContainer = Color(0xFF8C1D18)
+    val onErrorContainer = Color(0xFFF9DEDC)
 }
 
-// ============================================================================
+// =========================================================================
 // SHARED BLACK (AMOLED) SURFACE COLORS
-// ============================================================================
+// =========================================================================
 
 object BlackSurfaces {
     val background = Color(0xFF000000)
-    val onBackground = Color(0xFFE8E5F0)
+    val onBackground = Color(0xFFE6E1E5)
     val surface = Color(0xFF000000)
-    val onSurface = Color(0xFFE8E5F0)
-    val surfaceVariant = Color(0xFF1A191F)
-    val onSurfaceVariant = Color(0xFFC9C5D4)
-    val outline = Color(0xFF8C899A)
-    val outlineVariant = Color(0xFF2A282F)
+    val onSurface = Color(0xFFE6E1E5)
+    val surfaceVariant = Color(0xFF49454F)
+    val onSurfaceVariant = Color(0xFFCAC4D0)
+    val outline = Color(0xFF938F99)
+    val outlineVariant = Color(0xFF49454F)
     val scrim = Color(0xFF000000)
-    val inverseSurface = Color(0xFFE8E5F0)
-    val inverseOnSurface = Color(0xFF1C1B1F)
+    val inverseSurface = Color(0xFFE6E1E5)
+    val inverseOnSurface = Color(0xFF313033)
     val surfaceDim = Color(0xFF000000)
-    val surfaceBright = Color(0xFF1A191F)
+    val surfaceBright = Color(0xFF1C1B1F)
     val surfaceContainerLowest = Color(0xFF000000)
-    val surfaceContainerLow = Color(0xFF0A090D)
-    val surfaceContainer = Color(0xFF101014)
-    val surfaceContainerHigh = Color(0xFF17161B)
-    val surfaceContainerHighest = Color(0xFF1D1C22)
-    val error = Color(0xFFD32F2F)
-    val onError = Color(0xFFFFFFFF)
-    val errorContainer = Color(0xFFEF5350)
-    val onErrorContainer = Color(0xFFFFFFFF)
+    val surfaceContainerLow = Color(0xFF0F0D11)
+    val surfaceContainer = Color(0xFF151318)
+    val surfaceContainerHigh = Color(0xFF1F1D22)
+    val surfaceContainerHighest = Color(0xFF2B2930)
+    val error = Color(0xFFF2B8B5)
+    val onError = Color(0xFF601410)
+    val errorContainer = Color(0xFF8C1D18)
+    val onErrorContainer = Color(0xFFF9DEDC)
 }
 
-// ============================================================================
+// =========================================================================
 // SHARED LIGHT SURFACE COLORS
-// ============================================================================
+// =========================================================================
 
 object LightSurfaces {
-    val background = Color(0xFFFFFBFE)
-    val onBackground = Color(0xFF1C1B1F)
-    val surface = Color(0xFFFFFBFE)
-    val onSurface = Color(0xFF1C1B1F)
-    val surfaceVariant = Color(0xFFE7E0EC)
-    val onSurfaceVariant = Color(0xFF49454F)
-    val outline = Color(0xFF79747E)
-    val outlineVariant = Color(0xFFCAC4D0)
+    val background = Color(0xFFFFFBFB)
+    val onBackground = Color(0xFF201A1B)
+    val surface = Color(0xFFFFFBFB)
+    val onSurface = Color(0xFF201A1B)
+    val surfaceVariant = Color(0xFFF4DDDE)
+    val onSurfaceVariant = Color(0xFF524345)
+    val outline = Color(0xFF847375)
+    val outlineVariant = Color(0xFFD7C2C4)
     val scrim = Color(0xFF000000)
-    val inverseSurface = Color(0xFF313033)
-    val inverseOnSurface = Color(0xFFF4EFF4)
-    val surfaceDim = Color(0xFFDED8E1)
-    val surfaceBright = Color(0xFFFFFBFE)
+    val inverseSurface = Color(0xFF362F30)
+    val inverseOnSurface = Color(0xFFFBEEEE)
+    val surfaceDim = Color(0xFFE5D6D7)
+    val surfaceBright = Color(0xFFFFFBFB)
     val surfaceContainerLowest = Color(0xFFFFFFFF)
-    val surfaceContainerLow = Color(0xFFF7F2FA)
-    val surfaceContainer = Color(0xFFF3EDF7)
-    val surfaceContainerHigh = Color(0xFFECE6F0)
-    val surfaceContainerHighest = Color(0xFFE6E0E9)
+    val surfaceContainerLow = Color(0xFFFFF0F1)
+    val surfaceContainer = Color(0xFFFAEAEC)
+    val surfaceContainerHigh = Color(0xFFF4E5E6)
+    val surfaceContainerHighest = Color(0xFFEEDFDF)
     val error = Color(0xFFBA1A1A)
     val onError = Color(0xFFFFFFFF)
     val errorContainer = Color(0xFFFFDAD6)
     val onErrorContainer = Color(0xFF410002)
 }
 
-// ============================================================================
-// LIGHT THEME - Purple/Violet
-// ============================================================================
+// =========================================================================
+// LIGHT THEME COLORS
+// =========================================================================
 
-val primaryLight = Color(0xFF7B68EE)
+val primaryLight = Color(0xFF9B2949) // डस्टी रोज रेड-पिंक
 val onPrimaryLight = Color(0xFFFFFFFF)
-val primaryContainerLight = Color(0xFFEDE7FF)
-val onPrimaryContainerLight = Color(0xFF21005E)
+val primaryContainerLight = Color(0xFFFFD9E2)
+val onPrimaryContainerLight = Color(0xFF3F001D)
 
-val secondaryLight = Color(0xFF625B71)
+val secondaryLight = Color(0xFF74565F)
 val onSecondaryLight = Color(0xFFFFFFFF)
-val secondaryContainerLight = Color(0xFFE8DEF8)
-val onSecondaryContainerLight = Color(0xFF1D192B)
+val secondaryContainerLight = Color(0xFFFFD9E2)
+val onSecondaryContainerLight = Color(0xFF2B151C)
 
-val tertiaryLight = Color(0xFF7D5260)
+val tertiaryLight = Color(0xFF7E5260)
 val onTertiaryLight = Color(0xFFFFFFFF)
-val tertiaryContainerLight = Color(0xFFFFD8E4)
-val onTertiaryContainerLight = Color(0xFF31111D)
+val tertiaryContainerLight = Color(0xFFFFD9E4)
+val onTertiaryContainerLight = Color(0xFF31101D)
 
-val inversePrimaryLight = Color(0xFFD0BCFF)
+val inversePrimaryLight = Color(0xFFF48FB1)
 
-// ============================================================================
+// =========================================================================
 // PDF READER THEMES
-// ============================================================================
+// =========================================================================
 
 /**
  * Reader themes for PDF viewing with different background/text combinations.
@@ -149,7 +149,7 @@ object ReaderThemes {
     val White = ReaderColors(
         background = Color.White,
         onBackground = Color.Black,
-        surface = Color(0xFFF5F5F5),
+        surface = Color(0xFFFFF5F5),
         onSurface = Color.Black
     )
 
@@ -188,3 +188,4 @@ enum class ReaderTheme {
         BLACK -> ReaderThemes.Black
     }
 }
+

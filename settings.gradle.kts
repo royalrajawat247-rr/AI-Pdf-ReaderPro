@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PDF Reader Pro"
+rootProject.name = "AI PDF Reader Pro"
 include(":app")

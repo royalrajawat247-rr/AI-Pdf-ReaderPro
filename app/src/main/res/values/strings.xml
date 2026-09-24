@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PDF Reader Pro</string>
+    <string name="app_name">AI PDF Reader Pro</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
@@ -228,9 +228,9 @@
     <string name="last_updated">Last updated: %s</string>
     <string name="open_source_licenses">Open Source Licenses</string>
     <string name="about_creator">About the Creator</string>
-    <string name="creator_name">K M Rejowan Ahmmed</string>
+    <string name="creator_name">RR Royal Rajawat</string>
     <string name="creator_title">Senior Android Developer</string>
-    <string name="creator_description">PDF Reader Pro was created to provide a free, open-source, and privacy-focused PDF reading experience. With features like bookmarks, favorites, reading themes, and customizable settings, it aims to be a complete PDF solution for Android users.</string>
+    <string name="creator_description">AI PDF Reader Pro was created to provide a free, open-source, and privacy-focused PDF reading experience. With features like bookmarks, favorites, reading themes, and customizable settings, it aims to be a complete PDF solution for Android users.</string>
     <string name="gnu_license">GNU General Public License v3.0</string>
 
     <!-- Update Sheet -->
@@ -615,7 +615,7 @@
     <string name="cd_page_not_selected">Page %1$d not selected</string>
 
     <!-- Content Descriptions - UI Elements -->
-    <string name="cd_app_logo">PDF Reader Pro logo</string>
+    <string name="cd_app_logo">AI PDF Reader Pro logo</string>
     <string name="cd_decorative">Decorative image</string>
     <string name="cd_illustration">Illustration</string>
     <string name="cd_sort_ascending">Sort ascending</string>
@@ -969,12 +969,12 @@
     <!-- Settings Screen -->
     <string name="reader_section">Reader</string>
     <string name="about_section">About</string>
-    <string name="app_name_full">PDF Reader Pro</string>
+    <string name="app_name_full">AI PDF Reader Pro</string>
     <string name="version_format">Version %s</string>
     <string name="license_gpl">GPL 3.0</string>
     <string name="latest_badge">LATEST</string>
     <string name="privacy_protected">Your Privacy is Protected</string>
-    <string name="about_app_description">PDF Reader Pro was created to provide a free, open-source, and privacy-focused PDF reading experience. With features like bookmarks, favorites, reading themes, and customizable settings, it aims to be a complete PDF solution for Android users.</string>
+    <string name="about_app_description">AI PDF Reader Pro was created to provide a free, open-source, and privacy-focused PDF reading experience. With features like bookmarks, favorites, reading themes, and customizable settings, it aims to be a complete PDF solution for Android users.</string>
     <string name="gpl_full_name">GNU General Public License v3.0</string>
     <string name="key_terms">Key Terms</string>
     <string name="view_gpl_license">View Full GPL v3.0 License</string>
@@ -994,15 +994,15 @@
     <string name="view_changelog">View changelog</string>
     <string name="view_privacy_policy">View our privacy policy</string>
     <string name="view_third_party">View third-party libraries</string>
-    <string name="about_developer">About the developer</string>
+    <string name="about_developer">About the Creater</string>
     <string name="app_license">App License</string>
     <string name="follow_system_brightness">Follow system brightness</string>
 
     <!-- Settings Screen - Remaining strings -->
     <string name="install_pending_update">Install Pending Update</string>
     <string name="install_downloaded_version">Install downloaded v%s</string>
-    <string name="contact_developer">Contact Developer</string>
-    <string name="get_in_touch">Get in touch with the developer</string>
+    <string name="contact_developer">Contact Us</string>
+    <string name="get_in_touch">Get in touch with our support team</string>
     <string name="github_repository">GitHub Repository</string>
     <string name="view_source_code">View source code</string>
     <string name="choose_appearance">Choose app appearance</string>
@@ -1059,11 +1059,11 @@
     <string name="optional_updates">Optional update checks only</string>
     <string name="local_storage">All data stored locally</string>
     <string name="privacy_no_collection_title">No Data Collection</string>
-    <string name="privacy_no_collection_content">PDF Reader Pro does not collect, store, transmit, or share any personal data. The app operates completely offline and does not require an internet connection. There are no analytics, tracking, or telemetry of any kind.</string>
+    <string name="privacy_no_collection_content">AI PDF Reader Pro does not collect, store, transmit, or share any personal data. The app operates completely offline and does not require an internet connection. There are no analytics, tracking, or telemetry of any kind.</string>
     <string name="privacy_local_storage_title">Local Data Storage</string>
     <string name="privacy_local_storage_content">All bookmarks, favorites, and app preferences are stored exclusively on your device. This data never leaves your device and is not accessible to anyone except you. You have complete control and can delete this data at any time.</string>
     <string name="privacy_file_access_title">File Access</string>
-    <string name="privacy_file_access_content">PDF Reader Pro requires storage permission to read PDF files from your device. This access is used solely to display your documents and is never used to collect or transmit any information.</string>
+    <string name="privacy_file_access_content">AI PDF Reader Pro requires storage permission to read PDF files from your device. This access is used solely to display your documents and is never used to collect or transmit any information.</string>
     <string name="privacy_password_title">Password Storage</string>
     <string name="privacy_password_content">If you choose to save passwords for protected PDFs, they are stored locally using encrypted storage. Passwords never leave your device.</string>
     <string name="privacy_update_title">Update Checking</string>
@@ -1075,10 +1075,10 @@
     <string name="gpl_freedom_distribute">Freedom to distribute copies</string>
     <string name="gpl_freedom_modify">Freedom to distribute modified versions</string>
     <string name="gpl_derivative">Derivative works must be open source under GPL v3.0</string>
-    <string name="gpl_notice">PDF Reader Pro - Open Source PDF Viewer\nCopyright (C) %d K M Rejowan Ahmmed\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.</string>
+    <string name="gpl_notice">AI PDF Reader Pro - Open Source PDF Viewer\nCopyright (C) %d K M Rejowan Ahmmed\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.</string>
 
     <!-- Onboarding -->
-    <string name="onboarding_welcome">Welcome to\nPDF Reader Pro</string>
+    <string name="onboarding_welcome">Welcome to\nAI PDF Reader Pro</string>
     <string name="onboarding_welcome_desc">A clean, lightweight PDF reader built for simplicity. Open source, ad-free, and respects your privacy.</string>
     <string name="onboarding_all_pdfs">All Your PDFs\nin One Place</string>
     <string name="onboarding_all_pdfs_desc">Automatically discovers PDFs across your device. Browse by folders, sort by name, date, or size, and find any document instantly with search.</string>
